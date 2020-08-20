@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is some content
+=======
+different content to merge file later
+>>>>>>> feature
