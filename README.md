@@ -1,2 +1,2 @@
 # PJP2
-repository for week1 assignment
+week wise assignments added in week wise branches
